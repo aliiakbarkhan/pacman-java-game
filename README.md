@@ -40,13 +40,6 @@ This project is a PACMAN game clone built with Java. The game involves a maze wh
 ### Game Start Screen
 ![Start Screen](https://github.com/user-attachments/assets/5eff389b-25ba-4ce7-9c56-6c9f428eef8e)
 
-
-### In-Game Screenshot
-![In-Game](https://github.com/user-attachments/assets/242a187a-9e34-4f3e-96b1-6197e908441f)
-
-### Game Over Screen
-![Game Over](https://github.com/user-attachments/assets/fdcaeeed-6edc-450c-8fe5-a8f470ff3feb)
-
 ---
 
 ## Installation
