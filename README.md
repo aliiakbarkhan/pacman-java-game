@@ -1,7 +1,8 @@
+<div align="center">
+
 ![9ac75821-598d-46d1-bf2e-1eea40138e6c](https://github.com/user-attachments/assets/fe5ba826-3a59-4d13-a471-77bb465e4a81)
 
-## PACMAN Game in Java
-
+</div>
 
 
 
@@ -36,9 +37,11 @@ This project is a PACMAN game clone built with Java. The game involves a maze wh
 ---
 
 ## Screenshots
-
-### Game Start Screen
+<div align = "center">
+    
 ![Start Screen](https://github.com/user-attachments/assets/5eff389b-25ba-4ce7-9c56-6c9f428eef8e)
+
+</div>
 
 ---
 
