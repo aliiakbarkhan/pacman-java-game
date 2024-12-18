@@ -1,6 +1,6 @@
 <div align="center">
-
-![9ac75821-598d-46d1-bf2e-1eea40138e6c](https://github.com/user-attachments/assets/fe5ba826-3a59-4d13-a471-77bb465e4a81)
+<h2>PacMan</h2>
+<img align="middle" alt="GIF" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/df9qxoy-d356422e-fc6d-4182-9e72-d7c8f9f5e842.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGY5cXhveS1kMzU2NDIyZS1mYzZkLTQxODItOWU3Mi1kN2M4ZjlmNWU4NDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XA1KDGEFEsw-FS9jKMOB1mipIHF74EwFEKll8sM258k" />
 
 </div>
 
