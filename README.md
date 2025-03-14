@@ -92,7 +92,8 @@ This project is a PACMAN game clone built with Java. The game involves a maze wh
 
 ## Credits
 
-https://github.com/user-attachments/assets/1b6f530c-0eb8-4c25-90c6-f26a9c64263a
+https://github.com/user-attachments/assets/af7a9530-cbef-4cb4-8f47-7d2a0691824d
+
 
 - **Tutorial**: Inspired by Kenny Jim Coding's tutorial on YouTube.
 - **Developer**: [Ali Akbar Khan](https://github.com/aliiakbarkhan)
